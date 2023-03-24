@@ -1,1 +1,2 @@
-Python is an Object Oriented, high-level Programming Language like Java. It is a dynamically typed language, which means that we don't have to specify the data type of a certain variable, the python compiler will know what kind of data is stored in the variable.
+Python is an Object Oriented, high-level Programming Language like Java. It is a dynamically typed language, which means that we don't have to specify the data type of a 
+certain variable, the python compiler will know what kind of data is stored in the variable.
