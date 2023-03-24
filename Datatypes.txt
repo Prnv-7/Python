@@ -1,0 +1,4 @@
+Mainly there are 7 Data types in python.
+
+1.  Numeric type: This data type includes integer, floating point numbers nnd complex numbers.
+  Eg:- a = 10, b = 2.5
