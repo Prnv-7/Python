@@ -1,4 +1,22 @@
 Mainly there are 7 Data types in python.
 
-1.  Numeric type: This data type includes integer, floating point numbers nnd complex numbers.
+1. Numeric type: This data type includes integer, floating point numbers nnd complex numbers.
   Eg:- a = 10, b = 2.5
+
+2. String Type: A string is a sequence of characters put into a single double or triple inverted commas.
+  Eg:- text = 'Apple'
+
+3. List Type: List is an ordered sequence of items. All the items in a list are emnclosed by square brackets([]).
+  Eg:- l = ['apple', 1]
+
+4. Tuple Type: Tuple is same list, it is an ordered sequence of items. The only difference is that the items are enclosed between common brackets () and are immutable.
+  Eg:- t = (1, 2, 'Python')
+  
+5. Set Type: Set is an unordered collection of elements. Values in a set are separated by comma and enclosed in curly brackets {}.
+  Eg:- s = {1, 4, 5, 6}
+
+6. Dictionary Type: Dictionary is an unordered collection of key:value pairs.
+  Eg:- d = {'a':1, 'b':2}
+  
+7. Bool Type: Bool data type represents a Boolean vvalue which can either be 'True' or 'False'.
+  Eg:- x = True
