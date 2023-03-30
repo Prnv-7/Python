@@ -25,6 +25,10 @@
  len(string)
  # Returns the total length of the string.
  
-  # 7) split():
+ # 7) split():
  string.split()
  # Splits the string according to the delimiter provided.
+
+  # 8) islower():
+ string.isdigit()
+ # Returns True if the string has numbers in it.
