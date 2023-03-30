@@ -29,6 +29,10 @@
  string.split()
  # Splits the string according to the delimiter provided.
 
-  # 8) islower():
+  # 8) isdigit():
  string.isdigit()
  # Returns True if the string has numbers in it.
+
+  # 9) title():
+ string.title()
+ # Returns the string that begins with uppercase and rest is lowercase.
